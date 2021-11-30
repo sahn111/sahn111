@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sahn111
-- 👀 I’m working on in backend services and data science
+- 👀 I’m working as backend & data engineer
 - 📫 How to reach me mahmutali.mas@gmail.com
 - Nowadays, I am learning about smart contracts.
 <!---

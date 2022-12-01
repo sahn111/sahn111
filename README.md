@@ -21,15 +21,6 @@ Have a nice day :)
 
 
 <br><br>
-Technologies :
-
- * <a href="https://fastapi.tiangolo.com/">
-    <img src="https://img.shields.io/badge/FastAPI-white?style=for-the-badge&logoColor=green&textColor=green" alt="FastAPI Badge"/>
-  </a>
-
- * <a href="https://www.docker.com/">
-    <img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>
-  </a>
 
 Languages :
 - <a href="https://www.python.org/">

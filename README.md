@@ -10,8 +10,10 @@
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
   <br>
-📫  mahmutali.mas@gmail.com  📫
-
+  <a href="mahmutali.mas@gmail.com">
+    <img src="https://img.shields.io/badge/GMail-white?style=for-the-badge&logo=gmail&logoColor=gmail" alt="MGmail"/>
+  </a>
+  
 </div>
 <br>
 Hello ! <br>I am Ali Sahin. I am working as a Backend Developer. Moreover, I have my own projects. I like creating new things. You can checkout technologies that use everyday...
@@ -43,6 +45,8 @@ Databases :
 - <a href="https://www.mongodb.com//">
     <img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge"/>
   </a>
+
+📫  mahmutali.mas@gmail.com  📫
 
 <!---
 sahn111/sahn111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

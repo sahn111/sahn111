@@ -31,6 +31,10 @@ Languages :
     <img src="https://img.shields.io/badge/TypeScript-purple?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/>
   </a>
 
+- <a href="">
+    <img src="https://img.shields.io/badge/CS-blue?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+  </a>
+
 Databases :
 - <a href="https://www.postgresql.org/">
     <img src="https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/>

@@ -16,7 +16,7 @@
   
 </div>
 <br>
-Hello ! <br>I am Ali Sahin. I am working as a Backend Developer. Moreover, I have my own projects. I like creating new things. You can checkout technologies that use everyday...
+Hello ! <br>I am Ali Sahin. I am working as a Python Developer. Moreover, I have my own projects. I like creating new things. You can checkout technologies that use everyday...
 <br>
 <br>Thank you for reading, 
 Have a nice day :)

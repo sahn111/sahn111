@@ -23,27 +23,8 @@ Have a nice day :)
 
 
 <br><br>
-
-Languages :
-- <a href="https://www.python.org/">
+<a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/Python-purple?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
-  </a>
-
-- <a href="https://www.typescriptlang.org/">
-    <img src="https://img.shields.io/badge/TypeScript-purple?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/>
-  </a>
-
-- <a href="">
-    <img src="https://img.shields.io/badge/CS-blue?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
-  </a>
-
-Databases :
-- <a href="https://www.postgresql.org/">
-    <img src="https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/>
-  </a>
-
-- <a href="https://www.mongodb.com//">
-    <img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge"/>
   </a>
 
 📫  mahmutali.mas@gmail.com  📫

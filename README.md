@@ -13,7 +13,6 @@
   <a href="mahmutali.mas@gmail.com">
     <img src="https://img.shields.io/badge/GMail-white?style=for-the-badge&logo=gmail&logoColor=gmail" alt="Gmail"/>
   </a>
-  <br>
   <a href="[mahmutali.mas@gmail.com](https://twitter.com/mahmutalisahn)">
     <img src="https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=twitter&logoColor=twitter" alt="Twitter"/>
   </a>
